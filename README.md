@@ -1,4 +1,5 @@
-Syllables
-=========
+Objective: Fun program to break a word into several possible phonetic variants
 
-Playing with breaking a word
+Compile: g++ main.cc Syllables.cc -o ./test
+
+Run: ./testme
